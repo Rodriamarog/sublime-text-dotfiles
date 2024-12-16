@@ -1,0 +1,13 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"variables":
+	{
+		"sidebar_bg": "color(var(base_hue) l(5%))",
+		"ui_bg": "color(var(base_hue) l(10%))",
+		"sidebar_row_selected": "color(var(base_hue) l(15%))",
+	},
+	"rules":
+	[
+		
+	]
+}
